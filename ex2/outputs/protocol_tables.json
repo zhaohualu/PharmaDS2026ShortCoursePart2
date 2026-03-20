@@ -1,0 +1,167 @@
+[
+  {
+    "table_id": "table_0",
+    "table_index": 0,
+    "n_rows": 13,
+    "n_cols": 2,
+    "flattened_text": "TITLE | Zinc sulfate (or other zinc salt) acceptability study in children with acute diarrhoea.  A prospective, open-label, (multi-centre) interventional study\nSTUDY No. | ABC-1234\nSTUDY DESIGN | Prospective, open label, (multi-centre) interventional study\nSTUDY OBJECTIVES | Primary Endpoint:\nThe adherence of children aged 3 to 59 months to the zinc sulfate product regimen.\n\nSecondary Endpoint:\nThe palatability (taste) score of the zinc sulfate product\nSTUDY POPULATION | In total, 300 patients (150 patients below 18 months of age, 150 patients aged 18\u201359 months)\nINCLUSION CRITERIA | Acute diarrhoea episode\nAge 3\u201359 months\nSigned informed consent\nCaregiver must be accessible by mobile phone\nEXCLUSION CRITERIA | Severe dehydration\nINVESTIGATIONAL PRODUCT | Zinc sulfate (or other zinc salt) \n[describe product format, tablet or syrup, strength]\nDOSAGE | Children below 6 months: half of a 20 mg tablet, dissolved in a teaspoon of water or breast milk, once daily for 10 to 14 days\nChildren older than 6 months: full 20 mg tablet, dissolved in a teaspoon of water or breast milk, once daily for 10 to 14 days\n\n(Revise this section as needed for syrup format.)\nPRIMARY ENDPOINT | Acceptability of the zinc product. The treatment will be considered to have good acceptability if 80% of the prescribed treatment is taken by at least 70% of the children.\nSECONDARY ENDPOINT | Taste palatability, i.e. a subjective evaluation measured on the basis of a caregiver\u2019s report of his/her child\u2019s behavior during the 10 to 14 days when the medicine is administered. \nThe caregivers are asked about the perception of taste of the zinc product given to the child. \nA 5-point scale is used to classify response options. The choices are:\n\n5 - Very well tolerated\n4 - Well tolerated\n3 - Tolerated\n2 - Poorly tolerated\n1 - Not tolerated\n\nThis measure is the overall response during the treatment period.  Individual daily recorded responses will be helpful to arrive at the overall response value on the 5-point scale.\nSAFETY EVALUATION | Adverse Events (AEs) identified from source data will be recorded on case report forms (CRFs).  They should be reported to the Sponsor and the IRB/IEC.  The Sponsor should report AEs to the local regulatory authority as required.\nSTATISTICAL CONSIDERATIONS | Statistical calculations for the primary and secondary endpoints should be outlined",
+    "rows": [
+      [
+        {
+          "row": 0,
+          "col": 0,
+          "text": "TITLE"
+        },
+        {
+          "row": 0,
+          "col": 1,
+          "text": "Zinc sulfate (or other zinc salt) acceptability study in children with acute diarrhoea.  A prospective, open-label, (multi-centre) interventional study"
+        }
+      ],
+      [
+        {
+          "row": 1,
+          "col": 0,
+          "text": "STUDY No."
+        },
+        {
+          "row": 1,
+          "col": 1,
+          "text": "ABC-1234"
+        }
+      ],
+      [
+        {
+          "row": 2,
+          "col": 0,
+          "text": "STUDY DESIGN"
+        },
+        {
+          "row": 2,
+          "col": 1,
+          "text": "Prospective, open label, (multi-centre) interventional study"
+        }
+      ],
+      [
+        {
+          "row": 3,
+          "col": 0,
+          "text": "STUDY OBJECTIVES"
+        },
+        {
+          "row": 3,
+          "col": 1,
+          "text": "Primary Endpoint:\nThe adherence of children aged 3 to 59 months to the zinc sulfate product regimen.\n\nSecondary Endpoint:\nThe palatability (taste) score of the zinc sulfate product"
+        }
+      ],
+      [
+        {
+          "row": 4,
+          "col": 0,
+          "text": "STUDY POPULATION"
+        },
+        {
+          "row": 4,
+          "col": 1,
+          "text": "In total, 300 patients (150 patients below 18 months of age, 150 patients aged 18\u201359 months)"
+        }
+      ],
+      [
+        {
+          "row": 5,
+          "col": 0,
+          "text": "INCLUSION CRITERIA"
+        },
+        {
+          "row": 5,
+          "col": 1,
+          "text": "Acute diarrhoea episode\nAge 3\u201359 months\nSigned informed consent\nCaregiver must be accessible by mobile phone"
+        }
+      ],
+      [
+        {
+          "row": 6,
+          "col": 0,
+          "text": "EXCLUSION CRITERIA"
+        },
+        {
+          "row": 6,
+          "col": 1,
+          "text": "Severe dehydration"
+        }
+      ],
+      [
+        {
+          "row": 7,
+          "col": 0,
+          "text": "INVESTIGATIONAL PRODUCT"
+        },
+        {
+          "row": 7,
+          "col": 1,
+          "text": "Zinc sulfate (or other zinc salt) \n[describe product format, tablet or syrup, strength]"
+        }
+      ],
+      [
+        {
+          "row": 8,
+          "col": 0,
+          "text": "DOSAGE"
+        },
+        {
+          "row": 8,
+          "col": 1,
+          "text": "Children below 6 months: half of a 20 mg tablet, dissolved in a teaspoon of water or breast milk, once daily for 10 to 14 days\nChildren older than 6 months: full 20 mg tablet, dissolved in a teaspoon of water or breast milk, once daily for 10 to 14 days\n\n(Revise this section as needed for syrup format.)"
+        }
+      ],
+      [
+        {
+          "row": 9,
+          "col": 0,
+          "text": "PRIMARY ENDPOINT"
+        },
+        {
+          "row": 9,
+          "col": 1,
+          "text": "Acceptability of the zinc product. The treatment will be considered to have good acceptability if 80% of the prescribed treatment is taken by at least 70% of the children."
+        }
+      ],
+      [
+        {
+          "row": 10,
+          "col": 0,
+          "text": "SECONDARY ENDPOINT"
+        },
+        {
+          "row": 10,
+          "col": 1,
+          "text": "Taste palatability, i.e. a subjective evaluation measured on the basis of a caregiver\u2019s report of his/her child\u2019s behavior during the 10 to 14 days when the medicine is administered. \nThe caregivers are asked about the perception of taste of the zinc product given to the child. \nA 5-point scale is used to classify response options. The choices are:\n\n5 - Very well tolerated\n4 - Well tolerated\n3 - Tolerated\n2 - Poorly tolerated\n1 - Not tolerated\n\nThis measure is the overall response during the treatment period.  Individual daily recorded responses will be helpful to arrive at the overall response value on the 5-point scale."
+        }
+      ],
+      [
+        {
+          "row": 11,
+          "col": 0,
+          "text": "SAFETY EVALUATION"
+        },
+        {
+          "row": 11,
+          "col": 1,
+          "text": "Adverse Events (AEs) identified from source data will be recorded on case report forms (CRFs).  They should be reported to the Sponsor and the IRB/IEC.  The Sponsor should report AEs to the local regulatory authority as required."
+        }
+      ],
+      [
+        {
+          "row": 12,
+          "col": 0,
+          "text": "STATISTICAL CONSIDERATIONS"
+        },
+        {
+          "row": 12,
+          "col": 1,
+          "text": "Statistical calculations for the primary and secondary endpoints should be outlined"
+        }
+      ]
+    ]
+  }
+]

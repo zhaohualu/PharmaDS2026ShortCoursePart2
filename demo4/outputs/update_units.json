@@ -1,0 +1,356 @@
+[
+  {
+    "unit_id": "U0001",
+    "section_title": "Title Page",
+    "paragraph_index": 34,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Protocol Title]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0002",
+    "section_title": "Title Page",
+    "paragraph_index": 36,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Protocol Number]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0003",
+    "section_title": "Title Page",
+    "paragraph_index": 37,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Compound]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0004",
+    "section_title": "Title Page",
+    "paragraph_index": 38,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Short Title]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0005",
+    "section_title": "Title Page",
+    "paragraph_index": 39,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Sponsor Title]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0006",
+    "section_title": "Title Page",
+    "paragraph_index": 40,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Legal Registered Address]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0007",
+    "section_title": "Title Page",
+    "paragraph_index": 41,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What is the Regulatory Agency Identifier Number(s)]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0008",
+    "section_title": "Primary Objective(s)",
+    "paragraph_index": 62,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Primary Objective(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0009",
+    "section_title": "Secondary Objective(s)",
+    "paragraph_index": 64,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Secondary Objective(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0010",
+    "section_title": "Exploratory Objective(s)",
+    "paragraph_index": 66,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Exploratory Objective(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0011",
+    "section_title": "Primary Endpoint(s)",
+    "paragraph_index": 70,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Primary Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0012",
+    "section_title": "Secondary Endpoint (s)",
+    "paragraph_index": 72,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Secondary Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0013",
+    "section_title": "Exploratory Endpoint (s)",
+    "paragraph_index": 74,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Exploratory Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0014",
+    "section_title": "General Considerations",
+    "paragraph_index": 93,
+    "run_indices": [
+      0,
+      1,
+      2
+    ],
+    "instruction_type": "remove_guidance",
+    "template_text": "The information about general design considerations should be copied directly from the protocol. Additional general considerations may be added.",
+    "signal": {
+      "action": "remove_guidance",
+      "font_color": "green",
+      "highlight_color": null,
+      "rule_name": "green_text"
+    },
+    "status": "pending",
+    "notes": [
+      "Merged consecutive runs"
+    ]
+  },
+  {
+    "unit_id": "U0015",
+    "section_title": "Statistical Hypotheses",
+    "paragraph_index": 95,
+    "run_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "instruction_type": "remove_guidance",
+    "template_text": "The information about statistical hypotheses should be copied directly from the protocol. Additional general considerations may be added.",
+    "signal": {
+      "action": "remove_guidance",
+      "font_color": "green",
+      "highlight_color": null,
+      "rule_name": "green_text"
+    },
+    "status": "pending",
+    "notes": [
+      "Merged consecutive runs"
+    ]
+  },
+  {
+    "unit_id": "U0016",
+    "section_title": "Primary Statistical Hypotheses",
+    "paragraph_index": 97,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Statistical Hypotheses for Primary Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0017",
+    "section_title": "Secondary Statistical Hypotheses",
+    "paragraph_index": 99,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Statistical Hypotheses for Secondary Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0018",
+    "section_title": "Exploratory Statistical Hypotheses",
+    "paragraph_index": 101,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the Statistical Hypotheses for Exploratory Endpoint(s)?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  },
+  {
+    "unit_id": "U0019",
+    "section_title": "Handling of Missing Data",
+    "paragraph_index": 105,
+    "run_indices": null,
+    "instruction_type": "update_placeholder",
+    "template_text": "[What are the plans of Handling of Missing Data?]",
+    "signal": {
+      "action": "update_required",
+      "font_color": null,
+      "highlight_color": null,
+      "rule_name": "bracket_placeholder"
+    },
+    "status": "pending",
+    "notes": [
+      "Detected by fallback bracket rule"
+    ]
+  }
+]

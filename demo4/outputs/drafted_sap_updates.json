@@ -1,0 +1,78 @@
+[
+  {
+    "unit_id": "U0001",
+    "proposed_sap_text": "Zinc sulfate (or other zinc salt) acceptability study in children with acute diarrhoea. A prospective, open-label, (multi-centre) interventional study"
+  },
+  {
+    "unit_id": "U0002",
+    "proposed_sap_text": "ABC-1234"
+  },
+  {
+    "unit_id": "U0003",
+    "proposed_sap_text": "Zinc sulfate (or other zinc salt)"
+  },
+  {
+    "unit_id": "U0004",
+    "proposed_sap_text": "Zinc acceptability study in children with acute diarrhoea"
+  },
+  {
+    "unit_id": "U0005",
+    "proposed_sap_text": "ABC Pharmaceuticals"
+  },
+  {
+    "unit_id": "U0006",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0007",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0008",
+    "proposed_sap_text": "To evaluate acceptability of the zinc product in management of childhood diarrhoea."
+  },
+  {
+    "unit_id": "U0009",
+    "proposed_sap_text": "The secondary objective is to assess palatability of the zinc product."
+  },
+  {
+    "unit_id": "U0010",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0011",
+    "proposed_sap_text": "The primary endpoint is the acceptability of the zinc product, measured by the adherence of children aged 3 to 59 months to the zinc product regimen. Adherence is defined as the number of days (out of the total 10 to 14 days) the child took the protocol-prescribed dose of the medicine. The treatment will be considered to have good acceptability if at least 80% of the prescribed treatment is taken by at least 70% of the children over the duration of 10 to 14 days, per WHO guidelines."
+  },
+  {
+    "unit_id": "U0012",
+    "proposed_sap_text": "The secondary objective is to assess palatability. The secondary endpoint is the palatability (taste) score of the zinc product, which is a subjective evaluation measured on the basis of a caregiver’s report of his/her child’s behavior during the 10 to 14 days when the medicine is administered. Caregivers are asked about their perception of the taste of the zinc product given to the child. A 5-point scale is used to classify response options: Very well tolerated, Well tolerated, Tolerated, Poorly tolerated, and Not tolerated. This measure is the overall response during the treatment period, with individual daily recorded responses used to arrive at the overall response value on the 5-point scale."
+  },
+  {
+    "unit_id": "U0013",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0014",
+    "proposed_sap_text": ""
+  },
+  {
+    "unit_id": "U0015",
+    "proposed_sap_text": ""
+  },
+  {
+    "unit_id": "U0016",
+    "proposed_sap_text": "The primary statistical hypothesis is to test if the proportion of children who take at least 80% of the prescribed zinc treatment over 10 to 14 days is greater than or equal to 70%. \n\nNull Hypothesis (H0): The proportion of children who take at least 80% of the prescribed treatment is less than 70% (P < 0.70).\nAlternative Hypothesis (H1): The proportion of children who take at least 80% of the prescribed treatment is greater than or equal to 70% (P ≥ 0.70)."
+  },
+  {
+    "unit_id": "U0017",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0018",
+    "proposed_sap_text": "Not specified in protocol"
+  },
+  {
+    "unit_id": "U0019",
+    "proposed_sap_text": "Missing data may occur due to incomplete caregiver reporting, loss to follow-up, early discontinuation of treatment, or incomplete documentation of daily treatment administration. Efforts will be made to minimize missing data through caregiver education, reminder phone calls during the treatment period, and verification of information during the follow-up contact.\n\nFor the primary endpoint (adherence), if daily adherence information is missing for specific days, and if adherence information is available for the majority of the treatment period (≥70% of days), the available data will be used to estimate overall adherence for the subject. If adherence information is missing for more than 30% of the treatment days, the subject will be considered non-adherent for the purpose of the primary endpoint analysis.\n\nFor the secondary endpoint (palatability), the caregiver-reported overall palatability score during the treatment period will be used for analysis. If individual daily palatability responses are partially missing but an overall palatability assessment is available at the follow-up visit, the overall assessment will be used. If no overall palatability assessment is available, the subject will be excluded from the palatability analysis.\n\nNo formal imputation methods will be applied for missing data. Analyses will primarily be based on observed data. The number and percentage of subjects with missing data for each endpoint will be summarized and reported. Sensitivity analyses may be conducted, if appropriate, to evaluate the potential impact of missing data on the study conclusions. Reasons for missing data, including withdrawal, loss to follow-up, or incomplete reporting, will be documented and summarized descriptively."
+  }
+]

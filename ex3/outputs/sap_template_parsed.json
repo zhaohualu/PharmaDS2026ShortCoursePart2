@@ -1,0 +1,3367 @@
+{
+  "source_file": "sap_template.docx",
+  "paragraph_count": 109,
+  "table_count": 1,
+  "paragraphs": [
+    {
+      "paragraph_index": 0,
+      "style": "CPT_Instructional",
+      "text": "Common Statistical Analysis Plan Template v5",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "C",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "ommon Statistical Analysis Plan Template v",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "5",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 1,
+      "style": "CPT_Instructional",
+      "text": "About This Template",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "About This Template",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 2,
+      "style": "CPT_Instructional",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 3,
+      "style": "CPT_Instructional",
+      "text": "Disclaimer",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Disclaimer",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 4,
+      "style": "CPT_Instructional",
+      "text": "This document is a template for a statistical analysis plan (SAP). It contains sections marked as common text that may be used across SAPs with little to no editing if the user chooses to do so. The use of this template is at the discretion of the user. Recommendations for modifications in future releases of the common SAP template can be submitted at any time and will be reviewed on a routine basis.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "This document is a template",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "for a",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "statistical analysis plan (SAP)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": ". It contains sections marked as common text that may be used across SAPs with little to no editing if the user chooses to do so. The use of this template is at the discretion of the user. Recommendations for modifications in future releases of the common SAP template can be submitted at any time and will be reviewed on a routine basis.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 5,
+      "style": "CPT_Instructional",
+      "text": "These materials are provided AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. TransCelerate and its members do not accept any responsibility for any loss of any kind including loss of revenue, business, anticipated savings or profits, loss of goodwill or data, or for any indirect consequential loss whatsoever to any person using these materials or acting or refraining from action as a result of the information contained in these materials. Any party using these materials bears sole and complete responsibility for ensuring that the materials, whether modified or not, are suitable for the particular use and are accurate, current, commercially reasonable under the circumstances, and comply with all applicable laws and regulations. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "These materials are provided AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. TransCelerate and its members do not accept any responsibility for any loss of any kind including loss of revenue, business, anticipated savings or profits, loss of goodwill or data, or for any indirect consequential loss whatsoever to any person using these materials or acting or refraining from action as a result of the information contained in these materials. Any party using these materials bears sole and complete responsibility for ensuring that the materials, whether modified or not, are suitable for the particular use and are accurate, current, commercially reasonable under the circumstances, and comply with all applicable laws and regulations. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 6,
+      "style": "CPT_Instructional",
+      "text": "Nothing in this template should be construed to represent or warrant that persons using this template have complied with all applicable laws and regulations. All individuals and organizations using this template bear responsibility for complying with the applicable laws and regulations for the relevant jurisdiction.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Nothing in this template should be construed to represent or warrant that persons using this template have complied with all applicable laws and regulations. All individuals and organizations using this template bear responsibility for complying with the applicable laws and regulations for the relevant jurisdiction.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 7,
+      "style": "CPT_Instructional",
+      "text": "Components of the SAP Template",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Components of the SAP ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Template",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 8,
+      "style": "CPT_Instructional",
+      "text": "The Core Backbone and Appendices are designed to cover, at minimum, the needs for regulatory reporting and the clinical study report (CSR). Levels 1 and 2 headings are aligned with Section 9 Statistical Considerations in the common protocol template (CPT). Level 3 and lower headings can be deleted/added/modified if additional planned analyses need to be described.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Core Backbone",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " and ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Appendices ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "are designed to cover, at minimum, the needs for regulatory reporting and the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "c",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "linical ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 7,
+          "text": "s",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 8,
+          "text": "tudy ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 9,
+          "text": "r",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 10,
+          "text": "eport (CSR). Level",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 11,
+          "text": "s",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 12,
+          "text": " 1 and 2 headings are aligned with Section 9 Statistical Considerat",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 13,
+          "text": "i",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 14,
+          "text": "ons in the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 15,
+          "text": "c",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 16,
+          "text": "ommon ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 17,
+          "text": "p",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 18,
+          "text": "rotocol ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 19,
+          "text": "t",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 20,
+          "text": "emplate",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 21,
+          "text": " (CPT)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 22,
+          "text": ". Level 3 and lower headings can be deleted/added/modified if additional planned analyses need to be described.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 9,
+      "style": "CPT_Instructional",
+      "text": "The Core Backbone contains analysis plan information common to all phases, study populations, and therapeutic areas. The core backbone is streamlined and focused on the regulatory reporting recommendations and/or requirements. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " Core Backbone",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " contains analysis plan information common to all phases, study populations, and therapeutic areas. The core backbone is streamlined and focused on the regulatory reporting recommendations and/or requirements. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 10,
+      "style": "CPT_Instructional",
+      "text": "Appendices provide additional information that can be accessed when needed, eg, abbreviations, data handling conventions, CSR items that are not critical for prespecification ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Appendices",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " provide additional information that can be accessed when needed",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": ",",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " eg, abbreviations, data handling conventions, CSR items ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "that are ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "not critical for ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "prespecification",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 7,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 11,
+      "style": "CPT_Instructional",
+      "text": "This information may also be contained in separate documentation and referenced.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "This information may also be contained in separate documentation and referenced.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 12,
+      "style": "CPT_Instructional",
+      "text": "Core Backbone Headings",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Core Backbone Headings",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 13,
+      "style": "CPT_Instructional",
+      "text": "Levels 1 and 2 headings should be consistent across analysis plans that use the TransCelerate common SAP template for reference purposes. The structure of this template was chosen to maximize alignment with the statistical section of the Common Protocol Template.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Level",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "s",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " 1 and 2 headings should be consistent across analysis plans that use the TransCelerate ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "c",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "ommon SAP template for reference purposes.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "The structure of this template ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 7,
+          "text": "was chosen to maximize ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 8,
+          "text": "align",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 9,
+          "text": "ment",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 10,
+          "text": " with the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 11,
+          "text": "statistical section of the Common Protocol Template.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 14,
+      "style": "CPT_Instructional",
+      "text": "Levels 1 and 2 headings should not be deleted. If they are not relevant to the study, not applicable should be inserted so that the numbering of subsequent sections is not changed.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Level",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "s",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " 1 and 2 headings should not be deleted. If they are not relevant to the study, ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "n",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "ot applicable should be inserted",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": " so that the numbering of subsequent sections is not changed.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 15,
+      "style": "CPT_Instructional",
+      "text": "Level 3 and subsequent subheadings are suggested and can be deleted/added/modified as needed.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Level 3 and ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "subsequent",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " sub",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "headings ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "are suggested and ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "can be deleted/added/modified as needed.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 16,
+      "style": "CPT_Instructional",
+      "text": "Terminology",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Terminology",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 17,
+      "style": "CPT_Instructional",
+      "text": "The terminology used in the SAP should match the protocol.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The terminology used in the SAP should match the protocol.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 18,
+      "style": "CPT_Instructional",
+      "text": "The following terminology has been selected for use within TransCelerate common templates (CPT, SAP, and CSR) and is considered to be appropriate for all phases, study populations, and therapeutic areas.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The following terminology has been selected for use within ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "TransCelerate common templates (CPT, SAP, and CSR) ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "and is considered to be appropriate for all phases, study populations, and therapeutic areas.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 19,
+      "style": "CPT_Instructional",
+      "text": "Participant is used rather than subject, healthy volunteer, or patient.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Participant",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " is used rather than subject, healthy volunteer, or patient.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 20,
+      "style": "CPT_Instructional",
+      "text": "Study intervention is used rather than study drug. Study interventions are all prespecified, investigational and noninvestigational medicinal products*, medical devices and other interventions (eg, surgical and behavioral) intended to be administered to the study participants during the study conduct. Procedures conducted to manage participants or to collect data are excluded from the usage of this term. Investigational interventions are a subset of study interventions that are being tested or used as a control (eg, placebo or active comparator).",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Study intervention ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "is",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " used rather than study drug.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "Study interventions",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": " are all prespecified, investigational and noninvestigational medicinal products*, medical devices and other interventions (eg, surgical and behavioral) intended to be administered to the study participants during the study conduct. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "Procedures conducted to manage participants or to collect data are excluded from the usage of this term. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 7,
+          "text": "Investigational interventions",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 8,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 9,
+          "text": "are a subset of study interventions that are being tested or used as a control (eg, placebo or active comparator).",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 21,
+      "style": "CPT_Instructional",
+      "text": "*Please be referred to Eudralex - Volume 10 - Clinical trials guidelines (Chapter III) for further information on some categories of medicinal products that are normally used in clinical trials as NIMPs (noninvestigational medicinal products), such as rescue medication, challenge agents, medicinal products used to assess endpoints in the clinical trial, concomitant medicinal products systematically prescribed to the study patients, and background treatment.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "*Please be referred to Eudralex - Volume 10 - Clinical trials guidelines (Chapter III) for further information on some categories of medicinal products ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "that",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " are normally used in clinical trials as NIMPs",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " (noninvestigational medicinal products)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": ", such as rescue medication, challenge agents, medicinal products used to assess endpoints in the clinical trial, concomitant medicinal products systematically prescribed to the study patients, and background treatment.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 22,
+      "style": "CPT_Instructional",
+      "text": "Of note, all products administered during the study that are not study interventions are recorded as concomitant therapy.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Of note, all products administered during the study that are not study interventions are recorded as concomitant therapy.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 23,
+      "style": "CPT_Instructional",
+      "text": "Formatting and Text Conventions",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Formatting and Text Conventions",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 24,
+      "style": "CPT_Instructional",
+      "text": "Common Text: Black font preceded by <Start of common text> and followed by <End of common text> is common language intended to be harmonized across SAPs. The recommendation is to use this text as written to maintain consistency across template users, but the text can be adapted or deleted, if required. Driver: Industry regulation or guidance.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Common Text: Black font preceded by <Start of common text> and followed by <End of common text> is common ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "language intended to be harmonized across SAPs. The recommendation is to use this text as written to maintain consistency across template users, but the text can be adapted or deleted, if required.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Driver:",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": " Industry regulation or guidance.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 25,
+      "style": "CPT_Instructional",
+      "text": "Suggested Text: Black text preceded by <Start of suggested text> and followed by <End of suggested text> is suggested language that can be adapted or deleted as needed. Authors should consider implications to reuse within the CTS or the CT Registry if text is to be modified or removed. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Suggested Text: Black text preceded by <Start of suggested text> and followed by <End of suggested text> is suggested language that can be adapted or deleted as needed. Authors should consider implications to reuse within the CTS or the CT Registry if text is to be modified or removed. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 26,
+      "style": "CPT_Instructional",
+      "text": "Variable Text: Blue bracketed text is variable text that should be addressed based on individual study needs.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Variable Text: Blue bracketed text is variable text that should be addressed based on individual study needs.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 27,
+      "style": "CPT_Instructional",
+      "text": "Example Text: Green italicized text preceded by <Start of example text> and followed by <End of example text> should be removed by the author if not utilized. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Example Text: Green italicized text preceded by <",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Start of example text",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "> and followed by <",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "End of example text",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "> should be removed by the author if not utilized. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 28,
+      "style": "CPT_Instructional",
+      "text": "Instructional Text: Intended to aid in the authoring of the SAP. In the basic Word edition, it is red, hidden text, and paragraph marks must be enabled in order for it to be displayed. In the technology-enabled edition, it will appear only in the instructional text panel.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Instructional Text: Intended to aid in the authoring of the SAP. In the basic Word edition, it is red, hidden text, and paragraph marks must be enabled in order for it to be displayed. In the technology-enabled edition, it will appear only in the instructional text panel.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 29,
+      "style": "CPT_Instructional",
+      "text": "The flags for the start and end of common, suggested, or example text can be removed automatically at the time of SAP finalization if the eSAP template has been used or should be removed manually by the author if the Basic Word Edition SAP template has been used.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The flags for the start and end of common, suggested, or example text can be removed automatically at the time of ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "SAP",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " finalization if the eSAP template has been used or should be removed manually by the author if the Basic Word Edition SAP template has been used.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 30,
+      "style": "CPT_Instructional",
+      "text": "Disclosure",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Disclosure",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 31,
+      "style": "CPT_Instructional",
+      "text": "Users are reminded that many regulators have begun to require increased public disclosure of clinical trial documents. For recommendations related to using this template given the disclosure requirements, please refer to the best practices for disclosure in the implementation toolkit available on TransCelerate’s website. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Users are reminded that many regulators have begun to require increased public disclosure of clinical trial documents. For recommendations related to using this template given the disclosure requirements, please refer to the best practices for disclosure in the implementation toolkit available on TransCelerate’s website. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 32,
+      "style": "CPT_Instructional",
+      "text": "All language proposed in this Library (whether proposed as common, suggested, example, or variable text) may be modified as the user sees fit or as required by any applicable law or regulation. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "All language proposed in this Library (whether proposed as common, suggested, example, or variable text) may be modified as the user sees fit or as required by any applicable law or regulation. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 33,
+      "style": "Heading 1 (No TOC)",
+      "text": "Title Page",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Title Page",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 34,
+      "style": "Normal",
+      "text": "Protocol Title: [What is the Protocol Title]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Protocol Title: ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "What is the",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "Protocol ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "Title",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 35,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 36,
+      "style": "Normal",
+      "text": "Protocol Number:  [What is the Protocol Number]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Protocol Number",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": ":",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "Protocol Number",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 7,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 37,
+      "style": "Normal",
+      "text": "Compound Number: [What is the Compound]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Compound Number: ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Compound",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 38,
+      "style": "Normal",
+      "text": "Short Title: [What is the Short Title]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Short Title: ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Short Title",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 39,
+      "style": "Normal",
+      "text": "Sponsor Name: [What is the Sponsor Title]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Sponsor Name: ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Sponsor Title",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 40,
+      "style": "Normal",
+      "text": "Legal Registered Address: [What is the Legal Registered Address]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Legal Registered Address: ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "Legal Registered Address",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 41,
+      "style": "Normal",
+      "text": "Regulatory Agency Identifier Number(s): [What is the Regulatory Agency Identifier Number(s)]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Regulatory Agency Identifier Number(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": ":",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": true,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "What is the ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": "Regulatory Agency Identifier Number(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 42,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 43,
+      "style": "Heading 3 (No TOC)",
+      "text": "Table of Contents",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Table of Contents",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 44,
+      "style": "Heading 1 (No Numbering)",
+      "text": "Version History",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Version ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "H",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "istory",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 45,
+      "style": "CPT_Instructional",
+      "text": "This section should include high-level, concise documentation of any changes from previous versions of the SAP. Include a sentence at the beginning of this section that references the current version of the protocol with the version date. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "This section should include high-level, concise documentation of any changes from previous versions of the SAP. Include a sentence at the beginning of this section that references the current version of the protocol with the version date. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 46,
+      "style": "CPT_Instructional",
+      "text": "If this is version 1.0 of the SAP, include the information provided in the example table with only the first row completed. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "If this is version 1",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": ".0",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " of the SAP, include the information provided in the example table with only the first row completed. ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 47,
+      "style": "CPT_Instructional",
+      "text": "For amendments to the SAP, describe the reason the SAP is amended such as: protocol amendment, changes following blinded data review, request from the data monitoring committee, etc. Details on the major changes and rationale for these changes for each SAP amendment are included in this section. A tabular format like the example table provided below may be used to present this information. Additional rows may be added to the table for the SAP amendment to describe the changes.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "For amendments to the SAP, describe the reason the SAP is amended such as: protocol amendment, changes following blinded data review, request from the data monitoring committee, etc. Details on the major changes and rationale for these changes for each SAP amendment are included in this section. A tabular format like the example table provided below may be used to present this information. Additional rows may be added to the table for the SAP amendment to describe the changes.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 48,
+      "style": "CPT_Example",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 49,
+      "style": "Heading 3 (No TOC)",
+      "text": "List of Abbreviations ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "List of ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Abbreviations",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 50,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 51,
+      "style": "Heading 1",
+      "text": "Introduction",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Introduction",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 52,
+      "style": "Heading 2",
+      "text": "Objectives",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Objectives",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 53,
+      "style": "CPT_Instructional",
+      "text": "Objectives, estimands, and endpoint information should be copied directly from Section 3 of the CPT. More estimands may be added to this section.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Objectives, estimands, and endpoint information should be copied directly from Section 3 of the CPT. More estimands may be added to this section.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 54,
+      "style": "CPT_Instructional",
+      "text": "It is recommended to define all estimands to be estimated in this section.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "It is recommended to define all estimands to be estimated in this section.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 55,
+      "style": "CPT_Instructional",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 56,
+      "style": "CPT_Instructional",
+      "text": "Secondary and supplementary estimands",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Secondary and supplementary estimands",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 57,
+      "style": "CPT_Instructional",
+      "text": "Secondary and supplementary estimands should be defined for each secondary objective as relevant.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Secondary and supplementary estimands should be defined for each secondary objective as relevant.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 58,
+      "style": "CPT_Instructional",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 59,
+      "style": "CPT_Instructional",
+      "text": "Tertiary/Exploratory/Other and supplementary estimands ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Tertiary/Exploratory/Other",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " and supplementary estimands",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 60,
+      "style": "CPT_Instructional",
+      "text": "Tertiary/Exploratory/Other and supplementary estimands should be defined for each Tertiary/Exploratory/Other objective as relevant.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Tertiary/Exploratory/Other",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " and supplementary estimands should be defined for each ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "Tertiary/Exploratory/Other",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": " objective as relevant.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 61,
+      "style": "Heading 3",
+      "text": "Primary Objective(s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Primary Objective(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 62,
+      "style": "Normal",
+      "text": "[What are the Primary Objective(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Primary Objective(s)?]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 63,
+      "style": "Heading 3",
+      "text": "Secondary Objective(s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Secondary Objective(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 64,
+      "style": "Normal",
+      "text": "[What are the Secondary Objective(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Secondary Objective(s)?]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 65,
+      "style": "Heading 3",
+      "text": "Exploratory Objective(s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Exploratory Objective(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 66,
+      "style": "Normal",
+      "text": "[What are the Exploratory Objective(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Exploratory Objective(s)?]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 67,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 68,
+      "style": "Heading 2",
+      "text": "Endpoints",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Endpoints",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 69,
+      "style": "Heading 3",
+      "text": "Primary Endpoint(s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Primary Endpoint(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 70,
+      "style": "Normal",
+      "text": "[What are the Primary Endpoint(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Primary Endpoint(s",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": ")?",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 71,
+      "style": "Heading 3",
+      "text": "Secondary Endpoint (s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Secondary ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Endpoint ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 72,
+      "style": "Normal",
+      "text": "[What are the Secondary Endpoint(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Secondary Endpoint(s)?]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 73,
+      "style": "Heading 3",
+      "text": "Exploratory Endpoint (s)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Exploratory ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "Endpoint ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "(s)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 74,
+      "style": "Normal",
+      "text": "[What are the Exploratory Endpoint(s)?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[What ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "are",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " the Exploratory Endpoint(s)?]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 75,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 76,
+      "style": "Heading 2",
+      "text": "Study Design",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Study Design",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 77,
+      "style": "CPT_Instructional",
+      "text": "Include a brief description to clarify the schema details or add more information not included in the schema. This information should come from the Overall Design section of the CPT (Section 4.1).",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Include a brief description to clarify the schema details or add more information not included in the schema. This information should come from the Overall Design section of the CPT (Section 4.1).",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 78,
+      "style": "CPT_Instructional",
+      "text": "Recommend not duplicating information already in schema.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Recommend not duplicating information already in schema",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": ".",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 79,
+      "style": "CPT_Instructional",
+      "text": "Use bullets rather than lengthy text, if possible.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Use bullets rather than lengthy text, if possible.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 80,
+      "style": "CPT_Instructional",
+      "text": "Items to consider:",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Items to consider:",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 81,
+      "style": "CPT_Instructional",
+      "text": "Study phase and study population, eg, patient, healthy volunteer",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Study phase and study population, eg, patient, healthy volunteer",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 82,
+      "style": "CPT_Instructional",
+      "text": "Design type, eg, parallel, crossover, factorial, single group, SMART (sequential multiple assignment randomized study), and other design elements as required, eg, dose-escalation, multicenter, adaptation.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Design type, eg, parallel, crossover, factorial, single group, SMART (sequential multiple assignment randomized study), and other design elements as required, eg, dose-escalation, multicenter, adaptation",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": ".",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 83,
+      "style": "CPT_Instructional",
+      "text": "Control method, eg, placebo, active comparator, low dose, historical, or none (ie, uncontrolled)",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Control method, eg, placebo, active comparator, low dose, historical, or none (ie, uncontrolled)",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 84,
+      "style": "CPT_Instructional",
+      "text": "Blind level, eg, open-label, single-blind, double-blind, double-blind (sponsor unblinded), matching placebos, double-dummy",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Blind level, eg, open-label, single-blind, double-blind, double-blind (sponsor unblinded), matching placebos, double-dummy",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 85,
+      "style": "CPT_Instructional",
+      "text": "Method of assignment to investigational intervention, eg, randomization scheme including randomization ratio, stratification",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Method of assignment to ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "investigational intervention",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": ", eg, randomization scheme including randomization ratio, stratification",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 86,
+      "style": "CPT_Instructional",
+      "text": "Total duration of study participation for each participant with sequence and definition of study periods, eg, screening, run-in, fixed dose/titration/maintenance/withdrawal, follow-up/washout periods.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Total duration of study participation for each participant with sequence and definition of study periods, eg, screening, run",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "-",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "in, fixed dose/titration/maintenance/withdrawal, follow",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "-",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "up/washout periods",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": ".",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 87,
+      "style": "CPT_Instructional",
+      "text": "Description of any provisions for extending the study or entry to rollover studies",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Description of any provisions for extending the study or entry to rollover studies",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 88,
+      "style": "CPT_Instructional",
+      "text": "Rules/procedures for dose changes/adjustments including flexible dosing; dose reductions, interruptions, tapering, or rescue; temporary/permanent discontinuation; and any circumstances for resuming investigational intervention as applicable.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Rules/procedures for dose changes/adjustments including flexible dosing; dose reductions, interruptions, tapering, or rescue; temporary/permanent discontinuation; and any circumstances for resuming ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "investigational intervention",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " as applicable",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": ".",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 89,
+      "style": "CPT_Instructional",
+      "text": "Planned interim analyses.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Planned interim ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "analyses.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 90,
+      "style": "CPT_Instructional",
+      "text": "Describe when the primary analysis will be performed, eg, at database lock after last participant last visit, at 100% primary endpoint data availability. Also describe final analysis timing if there will be subsequent reporting events, eg, after long-term follow-up.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Describe when the primary analysis will be performed, eg, at database ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "lock",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " after last participant last visit, at 100% primary endpoint data availability. Also describe final analysis timing if there will be subsequent reporting events, eg, after long-term follow",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "-",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "up.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 91,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 92,
+      "style": "Heading 1",
+      "text": "General Considerations",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "General Considerations",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 93,
+      "style": "Normal",
+      "text": "The information about general design considerations should be copied directly from the protocol. Additional general considerations may be added. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The information",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " about general design considerations",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": " should be copied directly from the protocol. Additional general considerations may be added. ",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 94,
+      "style": "Heading 2",
+      "text": "Statistical Hypotheses",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Statistical Hypotheses",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 95,
+      "style": "Normal",
+      "text": "The information about statistical hypotheses should be copied directly from the protocol. Additional general considerations may be added. ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The information ",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "about s",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "tatistical ",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 3,
+          "text": "h",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 4,
+          "text": "ypotheses",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 5,
+          "text": " ",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        },
+        {
+          "run_index": 6,
+          "text": "should be copied directly from the protocol. Additional general considerations may be added. ",
+          "font_color": "green",
+          "highlight_color": null,
+          "bold": false,
+          "italic": true,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 96,
+      "style": "Heading 3",
+      "text": "Primary Statistical Hypotheses",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Primary",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "Statistical Hypotheses",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 97,
+      "style": "Normal",
+      "text": "[What are the Statistical Hypotheses for Primary Endpoint(s)?] ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "What are the Statistical Hypotheses for Primary Endpoint(s)?",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "] ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 98,
+      "style": "Heading 3",
+      "text": "Secondary Statistical Hypotheses",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Secondary",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " Statistical Hypotheses",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 99,
+      "style": "Normal",
+      "text": "[What are the Statistical Hypotheses for Secondary Endpoint(s)?] ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "What are the Statistical Hypotheses for Secondary Endpoint(s)?",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "] ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 100,
+      "style": "Heading 3",
+      "text": "Exploratory Statistical Hypotheses",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Exploratory",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": " Statistical Hypotheses",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 101,
+      "style": "Normal",
+      "text": "[What are the Statistical Hypotheses for Exploratory Endpoint(s)?] ",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "What are the Statistical Hypotheses for Exploratory Endpoint(s)?",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "] ",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 102,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 103,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 104,
+      "style": "Heading 2",
+      "text": "Handling of Missing Data",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "Handling of Missing Data",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 105,
+      "style": "Normal",
+      "text": "[What are the plans of Handling of Missing Data?]",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "[",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 1,
+          "text": "What are the plans of Handling of Missing Data?",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        },
+        {
+          "run_index": 2,
+          "text": "]",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 106,
+      "style": "CPT_Instructional",
+      "text": "",
+      "runs": []
+    },
+    {
+      "paragraph_index": 107,
+      "style": "CPT_Instructional",
+      "text": "The information should be copied directly from the protocol (Section 9.1.4). Additional details may be added.",
+      "runs": [
+        {
+          "run_index": 0,
+          "text": "The information should be copied directly from the protocol (Section 9.1.4). Additional details may be added.",
+          "font_color": null,
+          "highlight_color": null,
+          "bold": false,
+          "italic": false,
+          "underline": false
+        }
+      ]
+    },
+    {
+      "paragraph_index": 108,
+      "style": "Normal",
+      "text": "",
+      "runs": []
+    }
+  ],
+  "tables": [
+    {
+      "table_index": 0,
+      "rows": [
+        [
+          {
+            "row": 0,
+            "col": 0,
+            "text": "SAP Version"
+          },
+          {
+            "row": 0,
+            "col": 1,
+            "text": "Date"
+          },
+          {
+            "row": 0,
+            "col": 2,
+            "text": "Change"
+          },
+          {
+            "row": 0,
+            "col": 3,
+            "text": "Rationale"
+          }
+        ],
+        [
+          {
+            "row": 1,
+            "col": 0,
+            "text": "1.0"
+          },
+          {
+            "row": 1,
+            "col": 1,
+            "text": ""
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "text": "Not applicable"
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "text": "Original version"
+          }
+        ],
+        [
+          {
+            "row": 2,
+            "col": 0,
+            "text": "<add rows as necessary>"
+          },
+          {
+            "row": 2,
+            "col": 1,
+            "text": ""
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "text": ""
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "text": ""
+          }
+        ]
+      ]
+    }
+  ]
+}

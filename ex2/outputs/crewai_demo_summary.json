@@ -1,0 +1,7 @@
+{
+  "protocol_json_path": "/home/jupyter/phdemo/ex2/outputs/protocol_parsed.json",
+  "template_json_path": "/home/jupyter/phdemo/ex2/outputs/sap_template_parsed.json",
+  "protocol_tables_json_path": "/home/jupyter/phdemo/ex2/outputs/protocol_tables.json",
+  "update_units_json_path": "/home/jupyter/phdemo/ex2/outputs/update_units.json",
+  "crewai_result_path": "/home/jupyter/phdemo/ex2/outputs/crewai_demo_result.txt"
+}

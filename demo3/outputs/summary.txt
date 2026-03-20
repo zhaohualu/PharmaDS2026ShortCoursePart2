@@ -1,0 +1,18 @@
+Here's a concise summary of the LangGraph demo for document automation in clinical trials:
+
+This LangGraph workflow demonstrated how to automate the process of comparing a clinical trial Protocol with an SAP (Statistical Analysis Plan) template to identify necessary updates.
+
+*   **What the workflow did:**
+    *   It automatically parsed a clinical trial Protocol (containing 218 paragraphs and 1 table) and an SAP template (containing 109 paragraphs and 1 table).
+    *   The workflow successfully identified 19 specific "update units" – key pieces of information from the Protocol that need to be incorporated into or used to update the SAP.
+
+*   **What files/artifacts were produced:**
+    *   The primary output was a structured artifact containing the identified updates, including the 1 table extracted from the Protocol, ready for review or further processing.
+
+*   **Why this LangGraph version is more structured than pure Python:**
+    *   **Clearer Flow:** LangGraph defines the workflow as a visual graph of "nodes" (steps) and "edges" (transitions). This makes the entire process explicit, easy to understand, and debug, unlike a long, sequential Python script.
+    *   **Modularity:** Each node is a self-contained component, promoting reusability and easier testing of individual parts.
+
+*   **Why this version is more controlled than a CrewAI agent workflow:**
+    *   **Deterministic Execution:** LangGraph ensures each step runs exactly as defined, providing predictable and repeatable outcomes crucial for auditability in regulated environments like clinical trials.
+    *   **Explicit State Management:** The workflow's state is precisely controlled and updated between nodes, preventing the uncoordinated decisions or "hallucinations" that can sometimes occur with more autonomous agent frameworks.
