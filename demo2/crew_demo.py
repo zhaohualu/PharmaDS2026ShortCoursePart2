@@ -26,7 +26,7 @@ def build_second_demo_crew() -> Crew:
         tools=[parse_docx_tool],
         verbose=True,
         allow_delegation=False,
-        max_rpm=2, 
+        max_rpm=1, 
     )
 
     signal_detection_agent = Agent(
@@ -40,7 +40,7 @@ def build_second_demo_crew() -> Crew:
         tools=[extract_tables_tool, detect_signals_tool],
         verbose=True,
         allow_delegation=False,
-        max_rpm=2, 
+        max_rpm=1, 
     )
 
     workflow_reporter_agent = Agent(
@@ -52,7 +52,7 @@ def build_second_demo_crew() -> Crew:
         llm=llm,
         verbose=True,
         allow_delegation=False,
-        max_rpm=2, 
+        max_rpm=1, 
     )
 
     # 2. Define Tasks (Using EXACT argument names for Pydantic schema validation)
@@ -137,5 +137,5 @@ def build_second_demo_crew() -> Crew:
         ],
         process=Process.sequential,
         verbose=True,
-        max_rpm=2, 
+        max_rpm=1, 
     )
