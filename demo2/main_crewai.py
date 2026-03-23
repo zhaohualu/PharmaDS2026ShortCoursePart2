@@ -11,7 +11,7 @@ load_dotenv(base / ".env")
 os.environ["VERTEXAI_PROJECT"] = ""
 os.environ["VERTEXAI_LOCATION"] = "us-central1"
 os.environ["LLM_BACKEND"] = "vertex_ai"
-os.environ["MODEL_NAME"] = "gemini-2.5-flash-lite"
+os.environ["MODEL_NAME"] = "gemini-2.5-pro"
 os.environ["CREWAI_TRACING_ENABLED"] = "false"
 
 # 3. Import CrewAI components AFTER the environment is fully configured
