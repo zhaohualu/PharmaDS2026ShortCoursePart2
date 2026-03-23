@@ -1,4 +1,5 @@
 # PharmaDS 2026 Short Course Part 2: Clinical Document Processing
+March 23, Edison, NJ
 
 This repository contains materials for the second part of the PharmaDS 2026 Short Course "Information Extraction and Document Preparation in Clinical Trial Development Using RAG-based LLMs", focusing on **clinical document processing** and automated drafting. The project demonstrates how to transition from traditional Python pipelines to advanced AI-agentic and state-driven workflows.
 
